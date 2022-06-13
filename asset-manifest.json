@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b2c3311.css",
-    "main.js": "/static/js/main.6d951d3a.js",
+    "main.css": "/static/css/main.bf3b18a3.css",
+    "main.js": "/static/js/main.5ad204d3.js",
     "static/media/2.png": "/static/media/2.ca761674e22267c1eeb7.png",
     "static/media/v1.png": "/static/media/v1.9b5aeacf11d700dce51d.png",
     "static/media/v3.png": "/static/media/v3.d9afc02caa080e71d8bb.png",
     "static/media/v2.png": "/static/media/v2.0008868c89998496b12c.png",
     "static/media/11.png": "/static/media/11.fc5f59ead5dffcc13591.png",
+    "static/media/coindesk.svg": "/static/media/coindesk.d7bc475e5c6e63050a1a6f340e5c64de.svg",
     "static/media/wework.svg": "/static/media/wework.a083275c77217f665d798a1e949f93e7.svg",
     "static/media/logo.svg": "/static/media/logo.83c1e356030cf0ee4abe77223dece5ca.svg",
     "index.html": "/index.html",
-    "main.6b2c3311.css.map": "/static/css/main.6b2c3311.css.map",
-    "main.6d951d3a.js.map": "/static/js/main.6d951d3a.js.map"
+    "main.bf3b18a3.css.map": "/static/css/main.bf3b18a3.css.map",
+    "main.5ad204d3.js.map": "/static/js/main.5ad204d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b2c3311.css",
-    "static/js/main.6d951d3a.js"
+    "static/css/main.bf3b18a3.css",
+    "static/js/main.5ad204d3.js"
   ]
 }
